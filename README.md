@@ -1,2 +1,32 @@
-# my-showcase-space
-Hi, I'm Cameron Rutherford, and welcome to my space where I showcase my skills as both a programmer and designer, blending the artistic with the practical. Here you'll find a collection of projects I'm proud to call finished. Feel free to explore, and don't hesitate to reach out if you have any questions or just want to chat!
+# Interactive Elevator Portfolio
+
+Welcome to my unique portfolio website that takes you on an elevator ride through my projects!
+
+## **How to Navigate**
+
+- **Buttons:** Use the **Up** and **Down** buttons on the screen.
+- **Keyboard:** Use your keyboard's **Up** and **Down** arrow keys.
+
+Each floor represents a different project. Enjoy the ride!
+
+## **Features**
+
+- ASCII-style graphics with a retro aesthetic.
+- Interactive navigation mimicking an elevator.
+- Keyboard and button controls.
+- Smooth transitions and optional sound effects.
+
+## **Technologies Used**
+
+- HTML5
+- CSS3
+- JavaScript
+- ASCII Art
+- GitHub Pages for hosting
+
+## **Contact Me**
+
+Feel free to reach out if you have any questions or would like to collaborate:
+
+- **Email:** [camrutt4@gmail.com](mailto:camrutt4@gmail.com)
+

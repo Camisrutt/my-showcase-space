@@ -1,45 +1,52 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    /* Styles */
     <link rel="stylesheet" href="https://camisrutt.github.io/my-showcase-space/assets/css/home-page.css">
-    <title>Cameron Rutherford's Showcase space</title>
+    /* Scripts */
+    <script type="module" src="https://camisrutt.github.io/my-showcase-space/assets/js/main.js" defer></script>
+    /* Title */
+    <title>Cameron Rutherford's Elevator Portfolio</title>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <section id="about">
-        <h1>Hi, I'm Cameron Rutherford</h1>
-        <p>Welcome to my portfolio! I'm a programmer and designer blending artistic and practical skills...</p>
-    </section>
-
-    <section id="projects">
-        <h2>Projects</h2>
-        <div class="project-list">
-            <div class="project">
-                <img src="assets/images/project1-thumbnail.jpg" alt="Project 1">
-                <h3>Project 1</h3>
-                <p>Brief description of project.</p>
-                <a href="projects/project1.html">Learn more</a>
-            </div>
-            <!-- Repeat for other projects -->
+    <div id="container">
+        <div id="personal-info">
+            <pre>
+┌─────────────────────────┐
+│ About Me                │
+│ Cameron Rutherford      │
+│ Software Developer      │
+│ Enthusiast of all things│
+│ tech & art & cats       │
+│                         │
+│ Contact:                │
+│ camrutt4@gmail.com      │
+│ (123) 456-7890          │
+│ Discord: camisrutt      │
+└─────────────────────────┘
+            </pre>
         </div>
-    </section>
 
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Feel free to reach out to me at <a href="mailto:cameron@example.com">cameron@example.com</a></p>
-    </section>
+        <div id="elevator">
+            <pre id="ascii-art">
+ 
+            </pre>
+            
+            <pre id="greeting-ascii">
+                <!-- Your ASCII art greeting goes here -->
+                [Your ASCII Art Greeting]
+                        </pre>
+            <div id="navigation">
+                <button id="up-button" aria-label="Go up a floor">Up</button>
+                <button id="down-button" aria-label="Go down a floor">Down</button>
+            </div>
+        </div>
+    </div>
 
-    <script src="assets/js/script.js"></script>
-</body>
+    <!-- Your script should be referenced relative to the root -->
+    <script type="module" src="https://camisrutt.github.io/my-showcase-space/assets/js/main.js" defer></script>
 </html>
+

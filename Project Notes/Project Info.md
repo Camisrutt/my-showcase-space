@@ -13,3 +13,13 @@ Css Stylepages Link
 ==================
 https://camisrutt.github.io/my-showcase-space/assets/css/
 ==================
+
+Js Script Main Link
+====================
+https://camisrutt.github.io/my-showcase-space/assets/js/main.js
+====================
+
+Sounds Link
+======================
+https://camisrutt.github.io/my-showcase-space/assets/sounds/
+======================
