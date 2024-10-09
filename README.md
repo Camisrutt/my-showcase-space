@@ -30,3 +30,11 @@ Feel free to reach out if you have any questions or would like to collaborate:
 
 - **Email:** [camrutt4@gmail.com](mailto:camrutt4@gmail.com)
 
+
+## **To-do List**
+
+- A sound button in the corner that can be used to turn off all sound effects
+- Connecting the Cohabit Project into the project board  /Label as in Progress
+- Connect the Moodboard App /Label as in Progress
+
+
