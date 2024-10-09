@@ -34,20 +34,27 @@ body {
     line-height: 1.5;
 }
 
+/* ASCII Art Styling */
+#ascii-art, #greeting-ascii {
+    font-size: 12px;  /* Reduce font size to fit on screen */
+    line-height: 1.2;
+    white-space: pre-wrap;  /* Allow ASCII art to wrap naturally if needed */
+}
+
+#ascii-art, #greeting-ascii {
+    max-width: 100%;  /* Limit the ASCII art to the width of the viewport */
+    overflow-wrap: break-word;  /* Break long lines */
+}
+
+
 /* Elevator Section Styling */
-#elevator {
+#elevator-art {
     width: 50%;
     padding: 20px;
     text-align: center;
 }
 
-#elevator pre {
-    font-size: 16px;
-    line-height: 1.2;
-    margin-bottom: 20px;
-}
-
-#greeting-ascii {
+#elevator-art pre {
     font-size: 16px;
     line-height: 1.2;
     margin-bottom: 20px;
@@ -79,7 +86,10 @@ body {
     }
 
     #personal-info,
-    #elevator {
+    #elevator-art {
         width: 100%;
+    }
+    #ascii-art, #greeting-ascii {
+        font-size: 10px;  /* Smaller font size for mobile screens */
     }
 }
